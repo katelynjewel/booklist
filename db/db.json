@@ -205,31 +205,31 @@
       },
       {
         "id": 31,
-        "title": "",
-        "author": "",
-        "genre": "",
-        "cover": ""
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "fiction",
+        "cover": "https://m.media-amazon.com/images/I/51Z0nLAfLmL.jpg"
       },
       {
         "id": 32,
-        "title": "",
-        "author": "",
-        "genre": "",
-        "cover": ""
+        "title": "The Adventures of Pinocchio",
+        "author": "Carlo Collodi",
+        "genre": "fiction",
+        "cover": "https://m.media-amazon.com/images/I/51qTqqxsgvL.jpg"
       },
       {
         "id": 33,
-        "title": "",
-        "author": "",
-        "genre": "",
-        "cover": ""
+        "title": "The Catcher in the Rye",
+        "author": "JD Salinger",
+        "genre": "finction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
       },      
       {
         "id": 34,
-        "title": "",
-        "author": "",
-        "genre": "",
-        "cover": ""
+        "title": "Anne of Green Gables",
+        "author": "LM Montgomery",
+        "genre": "childrens",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/A1ge421oh5L.jpg"
       }
   ]
 }
