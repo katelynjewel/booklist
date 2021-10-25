@@ -1,0 +1,235 @@
+{
+  "books":[
+      {
+        "id": 1,
+        "title": "The Hobbit",
+        "author": "JRR Tolkien",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/A1E+USP9f8L.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/41kbwTbXIQL._SX277_BO1,204,203,200_.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Alexander Hamilton",
+        "author": "Ron Chernow",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/9168wNMBk1L.jpg"
+      },
+      {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71FTb9X6wsL.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71CcO-jvRUL.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Born a Crime",
+        "author": "Trevor Noah",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91wo06zofzL.jpg"
+      },
+      {
+        "id": 7,
+        "title": "The Very Hungry Caterpillar",
+        "author": "Eric Carle",
+        "genre": "childrens",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81Tfdl+vm3L.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Midnight Sun",
+        "author": "Stephanie Meyer",
+        "genre": "fiction",
+        "cover": "https://wp.dailybruin.com/images/2020/08/ae.midnightsun.courtesy-424x640.jpg"
+      },
+      {
+        "id": 9,
+        "title": "You are a Badass",
+        "author": "Jen Sincero",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61+4xDF+FQL.jpg"
+      },
+      {
+        "id": 10,
+        "title": "How to Win Friends & Influence People",
+        "author": "Dale Carnegie",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61bfGzdMr2L.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Dream Big, Little One",
+        "author": "Vashti Harrison",
+        "genre": "childrens",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81Nbid9mhHL.jpg"
+      },
+      {
+        "id": 12,
+        "title": "The Body Keeps the Score",
+        "author": "Bessel van der Kolk",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61NdJMwAThS.jpg"
+      },
+      {
+        "id": 13,
+        "title": "The Wish",
+        "author": "Nicholas Sparks",
+        "genre": "fiction",
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614769180l/56625098.jpg"
+      },
+      {
+        "id": 14,
+        "title": "The Storyteller: Tales of Life and Music",
+        "author": "Dave Grohl",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81Nbid9mhHL.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Goodnight Moon and Other Sleeptime Tale",
+        "author": "Margaret Wise Brown",
+        "genre": "childrens",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Goodnightmoon.jpg/300px-Goodnightmoon.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Wonder",
+        "author": "RJ Palacio",
+        "genre": "childrens",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81i2-DOkZiL.jpg"
+      },
+      {
+        "id": 17,
+        "title": "The Lost Symbol",
+        "author": "Dan Brown",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91zOf+6I60L.jpg"
+      },
+      {
+        "id": 18,
+        "title": "A Short History of Nearly Everything",
+        "author": "Bill Bryson",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61vvvyR+TOL.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Sapiens: A Brief History of HumanKind",
+        "author": "Yuval Noah Harari",
+        "genre": "nonfiction",
+        "cover": "https://m.media-amazon.com/images/I/51Sn8PEXwcL.jpg"
+      },
+      {
+        "id": 20,
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81YI+R5RwFL.jpg"
+      },
+      {
+        "id": 21,
+        "title": "The Boy in the Striped Pajamas",
+        "author": "John Boyne",
+        "genre": "fiction",
+        "cover": "https://m.media-amazon.com/images/I/61ZrTDeAUzL.jpg"
+      },
+      {
+        "id": 22,
+        "title": "Mercy",
+        "author": "Jodi Picoult",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81Em5BG3lhL.jpg"
+      },
+      {
+        "id": 23,
+        "title": "The Lost Boy: A Foster Child's Search for the Love of a Family",
+        "author": "Dave Pelzer",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71YXtp7G-KL.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Nigella Express",
+        "author": "Nigella Lawson",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81tm0xYtHBL.jpg"
+      },
+      {
+        "id": 25,
+        "title": "The Summons",
+        "author": "John Grisham",
+        "genre": "fiction",
+        "cover": "https://images.penguinrandomhouse.com/cover/9780385339599"
+      },
+      {
+        "id": 26,
+        "title": "Jamie's Italy",
+        "author": "Jamie Oliver",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91y-ojuyD+S.jpg"
+      },
+      {
+        "id": 27,
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61hxlW+vz7L.jpg"
+      },
+      {
+        "id": 28,
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupery",
+        "genre": "childrens",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91qcxYPGMUL.jpg"
+      },
+      {
+        "id": 29,
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "genre": "fiction",
+        "cover": "https://m.media-amazon.com/images/I/41l02vDN4pL.jpg"
+      },
+      {
+        "id": 31,
+        "title": "",
+        "author": "",
+        "genre": "",
+        "cover": ""
+      },
+      {
+        "id": 32,
+        "title": "",
+        "author": "",
+        "genre": "",
+        "cover": ""
+      },
+      {
+        "id": 33,
+        "title": "",
+        "author": "",
+        "genre": "",
+        "cover": ""
+      },      
+      {
+        "id": 34,
+        "title": "",
+        "author": "",
+        "genre": "",
+        "cover": ""
+      }
+  ]
+}
