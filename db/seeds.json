@@ -230,6 +230,118 @@
         "author": "LM Montgomery",
         "genre": "childrens",
         "cover": "https://images-na.ssl-images-amazon.com/images/I/A1ge421oh5L.jpg"
+      },
+      {
+        "id": 35,
+        "title": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
+        "author": "Samin Nosrat",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71Fz1LqADbL.jpg"
+      },
+      {
+        "id": 36,
+        "title": "The Wave",
+        "author": "Susan Casey",
+        "genre": "nonfiction",
+        "cover": "https://images.penguinrandomhouse.com/cover/9780767928854"
+      },
+      {
+        "id": 37,
+        "title": "If You Tell: A Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood",
+        "author": "Gregg Olsen",
+        "genre": "nonfiction",
+        "cover": "https://m.media-amazon.com/images/I/912DMUya5aL.jpg"
+      },
+      {
+        "id": 38,
+        "title": "The History of Money",
+        "author": "Jack Weatherford",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81bYp7J+AxL.jpg"
+      },
+      {
+        "id": 39,
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "genre": "fiction",
+        "cover": "https://m.media-amazon.com/images/I/51zYFogJw3L.jpg"
+      },
+      {
+        "id": 40,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "fiction",
+        "cover": "https://i.ebayimg.com/images/g/hwkAAOSwQXlcCh4n/s-l640.jpg"
+      },
+      {
+        "id": 41,
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61JfGcL2ljL.jpg"
+      },
+      {
+        "id": 42,
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "JK Rowling",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91gZX7sjnpL.jpg"
+      },
+      {
+        "id": 43,
+        "title": "Educated: A Memoir",
+        "author": "Tara Westover",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81NwOj14S6L.jpg"
+      },
+      {
+        "id": 44,
+        "title": "A People's History of the United States",
+        "author": "Howard Zinn",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51529Lfc2ML.jpg"
+      },
+      {
+        "id": 45,
+        "title": "How to Do Nothing: Resisting the Attention Economy",
+        "author": "Jenny Odell",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91tBb2V3-fL.jpg"
+      },
+      {
+        "id": 46,
+        "title": "Subliminal: How Your Unconscious Mind Rules Your Behavior",
+        "author": "Leonard Mlodinow",
+        "genre": "nonfiction",
+        "cover": "https://i.ebayimg.com/images/g/hwkAAOSwQXlcCh4n/s-l640.jpg"
+      },
+      {
+        "id": 47,
+        "title": "The Master and Margarita",
+        "author": "Mikhail Bulgakov",
+        "genre": "fiction",
+        "cover": "https://images.penguinrandomhouse.com/cover/9780143108276"
+      },
+      {
+        "id": 48,
+        "title": "Out of the Silent Planet",
+        "author": "CS Lewis",
+        "genre": "fiction",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/CSLewis_OutOfTheSilentPlanet.jpg/220px-CSLewis_OutOfTheSilentPlanet.jpg"
+      },
+      {
+        "id": 49,
+        "title": "The Diving Comey: Inferno, Purgatorio, Paradiso",
+        "author": "Dante Alighieri",
+        "genre": "fiction",
+        "cover": "https://i.ebayimg.com/images/g/hwkAAOSwQXlcCh4n/s-l640.jpg"
+      },
+      {
+        "id": 50,
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51TaDZZ6lSL._SX324_BO1,204,203,200_.jpg"
       }
   ]
 }
