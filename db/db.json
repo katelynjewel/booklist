@@ -1,368 +1,354 @@
 {
-  "books": [
-    {
-      "id": 1,
-      "title": "The Hobbit",
-      "author": "JRR Tolkien",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/A1E+USP9f8L.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Dune",
-      "author": "Frank Herbert",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/41kbwTbXIQL._SX277_BO1,204,203,200_.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Alexander Hamilton",
-      "author": "Ron Chernow",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/9168wNMBk1L.jpg"
-    },
-    {
-      "id": 4,
-      "title": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/71FTb9X6wsL.jpg"
-    },
-    {
-      "id": 5,
-      "title": "Crime and Punishment",
-      "author": "Fyodor Dostoevsky",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/71CcO-jvRUL.jpg"
-    },
-    {
-      "id": 6,
-      "title": "Born a Crime",
-      "author": "Trevor Noah",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/91wo06zofzL.jpg"
-    },
-    {
-      "id": 7,
-      "title": "The Very Hungry Caterpillar",
-      "author": "Eric Carle",
-      "genre": "childrens",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/81Tfdl+vm3L.jpg"
-    },
-    {
-      "id": 8,
-      "title": "Midnight Sun",
-      "author": "Stephanie Meyer",
-      "genre": "fiction",
-      "cover": "https://wp.dailybruin.com/images/2020/08/ae.midnightsun.courtesy-424x640.jpg"
-    },
-    {
-      "id": 9,
-      "title": "You are a Badass",
-      "author": "Jen Sincero",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/61+4xDF+FQL.jpg"
-    },
-    {
-      "id": 10,
-      "title": "How to Win Friends & Influence People",
-      "author": "Dale Carnegie",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/61bfGzdMr2L.jpg"
-    },
-    {
-      "id": 11,
-      "title": "Dream Big, Little One",
-      "author": "Vashti Harrison",
-      "genre": "childrens",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/81Nbid9mhHL.jpg"
-    },
-    {
-      "id": 12,
-      "title": "The Body Keeps the Score",
-      "author": "Bessel van der Kolk",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/61NdJMwAThS.jpg"
-    },
-    {
-      "id": 13,
-      "title": "The Wish",
-      "author": "Nicholas Sparks",
-      "genre": "fiction",
-      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614769180l/56625098.jpg"
-    },
-    {
-      "id": 14,
-      "title": "The Storyteller: Tales of Life and Music",
-      "author": "Dave Grohl",
-      "genre": "nonfiction",
-      "cover": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781398503700/the-storyteller-9781398503700_xlg.jpg"
-    },
-    {
-      "id": 15,
-      "title": "Goodnight Moon and Other Sleeptime Tale",
-      "author": "Margaret Wise Brown",
-      "genre": "childrens",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Goodnightmoon.jpg/300px-Goodnightmoon.jpg"
-    },
-    {
-      "id": 16,
-      "title": "Wonder",
-      "author": "RJ Palacio",
-      "genre": "childrens",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/81i2-DOkZiL.jpg"
-    },
-    {
-      "id": 17,
-      "title": "The Lost Symbol",
-      "author": "Dan Brown",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/91zOf+6I60L.jpg"
-    },
-    {
-      "id": 18,
-      "title": "A Short History of Nearly Everything",
-      "author": "Bill Bryson",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/61vvvyR+TOL.jpg"
-    },
-    {
-      "id": 19,
-      "title": "Sapiens: A Brief History of HumanKind",
-      "author": "Yuval Noah Harari",
-      "genre": "nonfiction",
-      "cover": "https://m.media-amazon.com/images/I/51Sn8PEXwcL.jpg"
-    },
-    {
-      "id": 20,
-      "title": "The Help",
-      "author": "Kathryn Stockett",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/81YI+R5RwFL.jpg"
-    },
-    {
-      "id": 21,
-      "title": "The Boy in the Striped Pajamas",
-      "author": "John Boyne",
-      "genre": "fiction",
-      "cover": "https://m.media-amazon.com/images/I/61ZrTDeAUzL.jpg"
-    },
-    {
-      "id": 22,
-      "title": "Mercy",
-      "author": "Jodi Picoult",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/81Em5BG3lhL.jpg"
-    },
-    {
-      "id": 23,
-      "title": "The Lost Boy: A Foster Child's Search for the Love of a Family",
-      "author": "Dave Pelzer",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/71YXtp7G-KL.jpg"
-    },
-    {
-      "id": 24,
-      "title": "Nigella Express",
-      "author": "Nigella Lawson",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/81tm0xYtHBL.jpg"
-    },
-    {
-      "id": 25,
-      "title": "The Summons",
-      "author": "John Grisham",
-      "genre": "fiction",
-      "cover": "https://images.penguinrandomhouse.com/cover/9780385339599"
-    },
-    {
-      "id": 26,
-      "title": "Jamie's Italy",
-      "author": "Jamie Oliver",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/91y-ojuyD+S.jpg"
-    },
-    {
-      "id": 27,
-      "title": "The Kite Runner",
-      "author": "Khaled Hosseini",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/61hxlW+vz7L.jpg"
-    },
-    {
-      "id": 28,
-      "title": "The Little Prince",
-      "author": "Antoine de Saint-Exupery",
-      "genre": "childrens",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/91qcxYPGMUL.jpg"
-    },
-    {
-      "id": 29,
-      "title": "And Then There Were None",
-      "author": "Agatha Christie",
-      "genre": "fiction",
-      "cover": "https://m.media-amazon.com/images/I/41l02vDN4pL.jpg"
-    },
-    {
-      "id": 31,
-      "title": "The Alchemist",
-      "author": "Paulo Coelho",
-      "genre": "fiction",
-      "cover": "https://m.media-amazon.com/images/I/51Z0nLAfLmL.jpg"
-    },
-    {
-      "id": 32,
-      "title": "The Adventures of Pinocchio",
-      "author": "Carlo Collodi",
-      "genre": "fiction",
-      "cover": "https://m.media-amazon.com/images/I/51qTqqxsgvL.jpg"
-    },
-    {
-      "id": 33,
-      "title": "The Catcher in the Rye",
-      "author": "JD Salinger",
-      "genre": "finction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
-    },
-    {
-      "id": 34,
-      "title": "Anne of Green Gables",
-      "author": "LM Montgomery",
-      "genre": "childrens",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/A1ge421oh5L.jpg"
-    },
-    {
-      "id": 35,
-      "title": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
-      "author": "Samin Nosrat",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/71Fz1LqADbL.jpg"
-    },
-    {
-      "id": 36,
-      "title": "The Wave",
-      "author": "Susan Casey",
-      "genre": "nonfiction",
-      "cover": "https://images.penguinrandomhouse.com/cover/9780767928854"
-    },
-    {
-      "id": 37,
-      "title": "If You Tell: A Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood",
-      "author": "Gregg Olsen",
-      "genre": "nonfiction",
-      "cover": "https://m.media-amazon.com/images/I/912DMUya5aL.jpg"
-    },
-    {
-      "id": 38,
-      "title": "The History of Money",
-      "author": "Jack Weatherford",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/81bYp7J+AxL.jpg"
-    },
-    {
-      "id": 39,
-      "title": "Oliver Twist",
-      "author": "Charles Dickens",
-      "genre": "fiction",
-      "cover": "https://m.media-amazon.com/images/I/51zYFogJw3L.jpg"
-    },
-    {
-      "id": 40,
-      "title": "1984",
-      "author": "George Orwell",
-      "genre": "fiction",
-      "cover": "https://i.ebayimg.com/images/g/hwkAAOSwQXlcCh4n/s-l640.jpg"
-    },
-    {
-      "id": 41,
-      "title": "The Hunger Games",
-      "author": "Suzanne Collins",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/61JfGcL2ljL.jpg"
-    },
-    {
-      "id": 42,
-      "title": "Harry Potter and the Goblet of Fire",
-      "author": "JK Rowling",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/91gZX7sjnpL.jpg"
-    },
-    {
-      "id": 43,
-      "title": "Educated: A Memoir",
-      "author": "Tara Westover",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/81NwOj14S6L.jpg"
-    },
-    {
-      "id": 44,
-      "title": "A People's History of the United States",
-      "author": "Howard Zinn",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/51529Lfc2ML.jpg"
-    },
-    {
-      "id": 45,
-      "title": "How to Do Nothing: Resisting the Attention Economy",
-      "author": "Jenny Odell",
-      "genre": "nonfiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/91tBb2V3-fL.jpg"
-    },
-    {
-      "id": 46,
-      "title": "Subliminal: How Your Unconscious Mind Rules Your Behavior",
-      "author": "Leonard Mlodinow",
-      "genre": "nonfiction",
-      "cover": "https://i.ebayimg.com/images/g/hwkAAOSwQXlcCh4n/s-l640.jpg"
-    },
-    {
-      "id": 47,
-      "title": "The Master and Margarita",
-      "author": "Mikhail Bulgakov",
-      "genre": "fiction",
-      "cover": "https://images.penguinrandomhouse.com/cover/9780143108276"
-    },
-    {
-      "id": 48,
-      "title": "Out of the Silent Planet",
-      "author": "CS Lewis",
-      "genre": "fiction",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/CSLewis_OutOfTheSilentPlanet.jpg/220px-CSLewis_OutOfTheSilentPlanet.jpg"
-    },
-    {
-      "id": 49,
-      "title": "The Diving Comey: Inferno, Purgatorio, Paradiso",
-      "author": "Dante Alighieri",
-      "genre": "fiction",
-      "cover": "https://i.ebayimg.com/images/g/hwkAAOSwQXlcCh4n/s-l640.jpg"
-    },
-    {
-      "id": 50,
-      "title": "The Bell Jar",
-      "author": "Sylvia Plath",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/51TaDZZ6lSL._SX324_BO1,204,203,200_.jpg"
-    },
-    {
-      "title": "The Way of Kings",
-      "author": "Brandon Sanderson",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/91KzZWpgmyL.jpg",
-      "id": 51
-    },
-    {
-      "title": "Words of Radiance",
-      "author": "Brandon Sanderson",
-      "genre": "fiction",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/91tECQfrZTL.jpg",
-      "id": 52
-    },
-    {
-      "title": "Girl, Wash Your Face: Stop Believing the Lies About Who You Are So You Can Become Who You Were Meant to Be",
-      "author": "Rachel Hollis",
-      "genre": "",
-      "cover": "https://images-na.ssl-images-amazon.com/images/I/91ibhD5nhUL.jpg",
-      "id": 53
-    }
+  "books":[
+      {
+        "id": 1,
+        "title": "The Hobbit",
+        "author": "JRR Tolkien",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/A1E+USP9f8L.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/41kbwTbXIQL._SX277_BO1,204,203,200_.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Alexander Hamilton",
+        "author": "Ron Chernow",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/9168wNMBk1L.jpg"
+      },
+      {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71FTb9X6wsL.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71CcO-jvRUL.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Born a Crime",
+        "author": "Trevor Noah",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91wo06zofzL.jpg"
+      },
+      {
+        "id": 7,
+        "title": "The Very Hungry Caterpillar",
+        "author": "Eric Carle",
+        "genre": "childrens",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81Tfdl+vm3L.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Midnight Sun",
+        "author": "Stephanie Meyer",
+        "genre": "fiction",
+        "cover": "https://wp.dailybruin.com/images/2020/08/ae.midnightsun.courtesy-424x640.jpg"
+      },
+      {
+        "id": 9,
+        "title": "You are a Badass",
+        "author": "Jen Sincero",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61+4xDF+FQL.jpg"
+      },
+      {
+        "id": 10,
+        "title": "How to Win Friends & Influence People",
+        "author": "Dale Carnegie",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61bfGzdMr2L.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Dream Big, Little One",
+        "author": "Vashti Harrison",
+        "genre": "childrens",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81Nbid9mhHL.jpg"
+      },
+      {
+        "id": 12,
+        "title": "The Body Keeps the Score",
+        "author": "Bessel van der Kolk",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61NdJMwAThS.jpg"
+      },
+      {
+        "id": 13,
+        "title": "The Wish",
+        "author": "Nicholas Sparks",
+        "genre": "fiction",
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614769180l/56625098.jpg"
+      },
+      {
+        "id": 14,
+        "title": "The Storyteller: Tales of Life and Music",
+        "author": "Dave Grohl",
+        "genre": "nonfiction",
+        "cover": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781398503700/the-storyteller-9781398503700_xlg.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Goodnight Moon and Other Sleeptime Tale",
+        "author": "Margaret Wise Brown",
+        "genre": "childrens",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Goodnightmoon.jpg/300px-Goodnightmoon.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Wonder",
+        "author": "RJ Palacio",
+        "genre": "childrens",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81i2-DOkZiL.jpg"
+      },
+      {
+        "id": 17,
+        "title": "The Lost Symbol",
+        "author": "Dan Brown",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91zOf+6I60L.jpg"
+      },
+      {
+        "id": 18,
+        "title": "A Short History of Nearly Everything",
+        "author": "Bill Bryson",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61vvvyR+TOL.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Sapiens: A Brief History of HumanKind",
+        "author": "Yuval Noah Harari",
+        "genre": "nonfiction",
+        "cover": "https://m.media-amazon.com/images/I/51Sn8PEXwcL.jpg"
+      },
+      {
+        "id": 20,
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81YI+R5RwFL.jpg"
+      },
+      {
+        "id": 21,
+        "title": "The Boy in the Striped Pajamas",
+        "author": "John Boyne",
+        "genre": "fiction",
+        "cover": "https://m.media-amazon.com/images/I/61ZrTDeAUzL.jpg"
+      },
+      {
+        "id": 22,
+        "title": "Mercy",
+        "author": "Jodi Picoult",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81Em5BG3lhL.jpg"
+      },
+      {
+        "id": 23,
+        "title": "The Lost Boy: A Foster Child's Search for the Love of a Family",
+        "author": "Dave Pelzer",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71YXtp7G-KL.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Nigella Express",
+        "author": "Nigella Lawson",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81tm0xYtHBL.jpg"
+      },
+      {
+        "id": 25,
+        "title": "The Summons",
+        "author": "John Grisham",
+        "genre": "fiction",
+        "cover": "https://images.penguinrandomhouse.com/cover/9780385339599"
+      },
+      {
+        "id": 26,
+        "title": "Jamie's Italy",
+        "author": "Jamie Oliver",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91y-ojuyD+S.jpg"
+      },
+      {
+        "id": 27,
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61hxlW+vz7L.jpg"
+      },
+      {
+        "id": 28,
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupery",
+        "genre": "childrens",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91qcxYPGMUL.jpg"
+      },
+      {
+        "id": 29,
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "genre": "fiction",
+        "cover": "https://m.media-amazon.com/images/I/41l02vDN4pL.jpg"
+      },
+      {
+        "id": 31,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "fiction",
+        "cover": "https://m.media-amazon.com/images/I/51Z0nLAfLmL.jpg"
+      },
+      {
+        "id": 32,
+        "title": "The Adventures of Pinocchio",
+        "author": "Carlo Collodi",
+        "genre": "fiction",
+        "cover": "https://m.media-amazon.com/images/I/51qTqqxsgvL.jpg"
+      },
+      {
+        "id": 33,
+        "title": "The Catcher in the Rye",
+        "author": "JD Salinger",
+        "genre": "finction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
+      },      
+      {
+        "id": 34,
+        "title": "Anne of Green Gables",
+        "author": "LM Montgomery",
+        "genre": "childrens",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/A1ge421oh5L.jpg"
+      },
+      {
+        "id": 35,
+        "title": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
+        "author": "Samin Nosrat",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71Fz1LqADbL.jpg"
+      },
+      {
+        "id": 36,
+        "title": "The Wave",
+        "author": "Susan Casey",
+        "genre": "nonfiction",
+        "cover": "https://images.penguinrandomhouse.com/cover/9780767928854"
+      },
+      {
+        "id": 37,
+        "title": "If You Tell: A Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood",
+        "author": "Gregg Olsen",
+        "genre": "nonfiction",
+        "cover": "https://m.media-amazon.com/images/I/912DMUya5aL.jpg"
+      },
+      {
+        "id": 38,
+        "title": "The History of Money",
+        "author": "Jack Weatherford",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81bYp7J+AxL.jpg"
+      },
+      {
+        "id": 39,
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "genre": "fiction",
+        "cover": "https://m.media-amazon.com/images/I/51zYFogJw3L.jpg"
+      },
+      {
+        "id": 40,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "fiction",
+        "cover": "https://i.ebayimg.com/images/g/hwkAAOSwQXlcCh4n/s-l640.jpg"
+      },
+      {
+        "id": 41,
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61JfGcL2ljL.jpg"
+      },
+      {
+        "id": 42,
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "JK Rowling",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91gZX7sjnpL.jpg"
+      },
+      {
+        "id": 43,
+        "title": "Educated: A Memoir",
+        "author": "Tara Westover",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81NwOj14S6L.jpg"
+      },
+      {
+        "id": 44,
+        "title": "A People's History of the United States",
+        "author": "Howard Zinn",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51529Lfc2ML.jpg"
+      },
+      {
+        "id": 45,
+        "title": "How to Do Nothing: Resisting the Attention Economy",
+        "author": "Jenny Odell",
+        "genre": "nonfiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91tBb2V3-fL.jpg"
+      },
+      {
+        "id": 46,
+        "title": "Subliminal: How Your Unconscious Mind Rules Your Behavior",
+        "author": "Leonard Mlodinow",
+        "genre": "nonfiction",
+        "cover": "https://i.ebayimg.com/images/g/hwkAAOSwQXlcCh4n/s-l640.jpg"
+      },
+      {
+        "id": 47,
+        "title": "The Master and Margarita",
+        "author": "Mikhail Bulgakov",
+        "genre": "fiction",
+        "cover": "https://images.penguinrandomhouse.com/cover/9780143108276"
+      },
+      {
+        "id": 48,
+        "title": "Out of the Silent Planet",
+        "author": "CS Lewis",
+        "genre": "fiction",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/CSLewis_OutOfTheSilentPlanet.jpg/220px-CSLewis_OutOfTheSilentPlanet.jpg"
+      },
+      {
+        "id": 49,
+        "title": "The Diving Comey: Inferno, Purgatorio, Paradiso",
+        "author": "Dante Alighieri",
+        "genre": "fiction",
+        "cover": "https://i.ebayimg.com/images/g/hwkAAOSwQXlcCh4n/s-l640.jpg"
+      },
+      {
+        "id": 50,
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "genre": "fiction",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51TaDZZ6lSL._SX324_BO1,204,203,200_.jpg"
+      },
+      {
+        "id": 51,
+        "title": "Justin's Sister, Kelly",
+        "author": "Justin Chittarath",
+        "genre": "nonfiction",
+        "cover": "Image from iOS.jpg"
+      }
   ]
 }
